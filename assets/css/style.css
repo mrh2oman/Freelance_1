@@ -1,0 +1,25 @@
+/* .headImages {
+    width: 100px;
+    height: 100px;
+} */
+
+
+/* .images2 {
+    float: left;
+    display: inline-block;
+} */
+
+.img {
+    margin-left: 100px;
+}
+
+.imgDiv {
+    padding-right: 200px;
+}
+
+#dancer {
+    height: 500px;
+    width: auto;
+    float: left;
+    padding-right: 2000px;
+}
