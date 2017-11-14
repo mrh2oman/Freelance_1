@@ -23,3 +23,67 @@
     float: left;
     padding-right: 2000px;
 }
+
+.iconDetails {
+    padding-bottom: 10px;
+    margin-left: 10px;
+    float: left;
+    height: 50px;
+    width: auto;
+    position: absolute;
+}
+
+.container2 {
+    width: 100%;
+    height: auto;
+    padding: 1%;
+}
+
+h4 {
+    margin: 0px;
+}
+
+.logo1 {
+    line-height: 3em;
+}
+
+logo {
+    font-family: 'Grand Hotel', cursive;
+    font-size: 50px;
+    line-height: 4em;
+}
+
+.logoText:hover {
+    color: black;
+    z-index: 1000;
+}
+
+
+/* 
+#myNavbar {
+    z-index: 10000 !important;
+} */
+
+body {
+    padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+.logoTitle {
+    color: grey;
+    font-family: 'Grand Hotel', cursive;
+    font-size: 75px;
+    line-height: 1em;
+    display: inline-flex;
+}
+
+@media screen and (max-width: 800px) and (min-width: 100px) {
+    .logoTitle {
+        font-size: 35px;
+    }
+}
